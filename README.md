@@ -26,6 +26,9 @@ loss given default (LGD) = 1 - recovery rate***
 
 **Demo**
 
+
+![runtointeractive_rar-ezgif com-speed (1)](https://github.com/user-attachments/assets/7cfc335a-42f3-4124-92df-5401ad88b525)
+
 **Sources**
 
 Oblible.com
