@@ -1,5 +1,5 @@
 # ray
-**Risk-adjusted Bond Yield Calculator**
+**risk-adjusted bond yield calculator**
 
 Creates a bond profile and calculates the bond yield, expected losses, and the risk-adjusted bond yield. Takes the following input from the user:
 
